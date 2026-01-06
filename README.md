@@ -15,7 +15,6 @@ A modern digital notice board application that replaces traditional physical not
 - **Category Filtering**: Filter notices by category (General, Examination, Event, Urgent)
 - **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
 - **Modern UI**: Beautiful gradient design with smooth animations
-
 ## 🛠️ Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript
